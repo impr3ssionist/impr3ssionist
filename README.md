@@ -1,16 +1,19 @@
-## Hi there 👋
+Caleb Ford
+Software Engineer · Python · AWS · Cloud Infrastructure · Data Platforms
 
-<!--
-**impr3ssionist/impr3ssionist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build and troubleshoot reliable cloud software, with a focus on Python, AWS, event-driven systems, infrastructure automation, observability, CI/CD, and production data workflows.
 
-Here are some ideas to get you started:
+Previously, I worked on NOAA/CIRES environmental-data systems at petabyte scale, helping increase load capacity by more than 400% while maintaining approximately 99% successful processing.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Engineering Focus
+Cloud & Infrastructure: AWS, serverless architecture, infrastructure as code, CI/CD
+Backend: Python, APIs, event-driven workflows, PostgreSQL
+Reliability: CloudWatch, load testing, monitoring, retries, failure handling
+Development: Git, Docker, Terraform, TypeScript, React
+How I work: Build → measure → diagnose → automate → improve
+Selected Work
+Beyond the Coverage
+
+A production-oriented full-stack application with automated testing, CI/CD, authentication, PostgreSQL, security controls, and development/staging/production workflows.
+
+More production-focused cloud and Python engineering work is currently being added here.
